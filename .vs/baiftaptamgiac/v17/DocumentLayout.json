@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lolvl\\source\\repos\\baiftaptamgiac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1C7F17-2721-43B6-85C7-9AA9216D709A}|baiftaptamgiac\\baiftaptamgiac.vcxproj|C:\\Users\\lolvl\\source\\repos\\baiftaptamgiac\\baiftaptamgiac\\baiftaptamgiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C1C7F17-2721-43B6-85C7-9AA9216D709A}|baiftaptamgiac\\baiftaptamgiac.vcxproj|solutionrelative:baiftaptamgiac\\baiftaptamgiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "baiftaptamgiac.cpp",
+              "DocumentMoniker": "C:\\Users\\lolvl\\source\\repos\\baiftaptamgiac\\baiftaptamgiac\\baiftaptamgiac.cpp",
+              "RelativeDocumentMoniker": "baiftaptamgiac\\baiftaptamgiac.cpp",
+              "ToolTip": "C:\\Users\\lolvl\\source\\repos\\baiftaptamgiac\\baiftaptamgiac\\baiftaptamgiac.cpp",
+              "RelativeToolTip": "baiftaptamgiac\\baiftaptamgiac.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T07:25:23.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
